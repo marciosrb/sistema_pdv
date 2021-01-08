@@ -1,0 +1,62 @@
+C:\Users\altop\source\repos\PDV\PDV\bin\Debug\PDV.exe.config
+C:\Users\altop\source\repos\PDV\PDV\bin\Debug\PDV.exe
+C:\Users\altop\source\repos\PDV\PDV\bin\Debug\PDV.pdb
+C:\Users\altop\source\repos\PDV\PDV\bin\Debug\MySql.Data.dll
+C:\Users\altop\source\repos\PDV\PDV\obj\Debug\PDV.frmVendas.resources
+C:\Users\altop\source\repos\PDV\PDV\obj\Debug\PDV.PegaConsumidor.resources
+C:\Users\altop\source\repos\PDV\PDV\obj\Debug\PDV.Properties.Resources.resources
+C:\Users\altop\source\repos\PDV\PDV\obj\Debug\PDV.Start.resources
+C:\Users\altop\source\repos\PDV\PDV\obj\Debug\PDV.csproj.GenerateResource.cache
+C:\Users\altop\source\repos\PDV\PDV\obj\Debug\PDV.csproj.CopyComplete
+C:\Users\altop\source\repos\PDV\PDV\obj\Debug\PDV.exe
+C:\Users\altop\source\repos\PDV\PDV\obj\Debug\PDV.pdb
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.Caixa.resources
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.MenuPrincipal.resources
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\conector.login.resources
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmVendas.resources
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.ImportandoProdutos.resources
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.Pagamento.resources
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.InformaPagamento.resources
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.PegaConsumidor.resources
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.Properties.Resources.resources
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.Start.resources
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.csproj.GenerateResource.cache
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\bin\Debug\PDV.exe.config
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\bin\Debug\PDV.exe
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\bin\Debug\PDV.pdb
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\bin\Debug\MySql.Data.dll
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.csprojAssemblyReference.cache
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.csproj.CopyComplete
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.exe
+C:\Users\altop\Desktop\MÁRCIO\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.pdb
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\bin\Debug\PDV.exe.config
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\bin\Debug\PDV.exe
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\bin\Debug\PDV.pdb
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmBloquearPDV.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmCaixa.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmAbrirCaixa.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmConsultaPreco.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmFechamento.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmFundoPDV.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmMenuPrincipal.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.login.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmSangria.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmSolicitarSenhaSupervisor.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmVendas.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmImportarCarga.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmPagamento.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmInformarPagamento.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmCPFCNPJ.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.Properties.Resources.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.Start.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.frmConfiguraPDV.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.csproj.CopyComplete
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.exe
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.pdb
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\bin\Debug\PDV.exe.manifest
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\bin\Debug\PDV.application
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.exe.manifest
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\Debug\PDV.application

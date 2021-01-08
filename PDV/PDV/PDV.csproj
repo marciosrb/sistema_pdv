@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{041C1DD7-ABF7-4328-9D73-616AC903D930}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PDV</RootNamespace>
+    <AssemblyName>PDV</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\USER\Desktop\setup\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>PDV VTEX</ProductName>
+    <PublisherName>VISUAL SISTEMAS</PublisherName>
+    <SuiteName>PDV VTEX</SuiteName>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>iconeico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>bin\Release\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexao\ConexaoMySQL.cs" />
+    <Compile Include="Conexao\ConexaoSQL.cs" />
+    <Compile Include="Conexao\ConexaoTabelaItens.cs" />
+    <Compile Include="frmBloquearPDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBloquearPDV.Designer.cs">
+      <DependentUpon>frmBloquearPDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCaixa.Designer.cs">
+      <DependentUpon>frmCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbrirCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbrirCaixa.Designer.cs">
+      <DependentUpon>frmAbrirCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaPreco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaPreco.Designer.cs">
+      <DependentUpon>frmConsultaPreco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFechamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFechamento.Designer.cs">
+      <DependentUpon>frmFechamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFundoPDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFundoPDV.Designer.cs">
+      <DependentUpon>frmFundoPDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuPrincipal.Designer.cs">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CpfCnpj.cs" />
+    <Compile Include="frmImportarCarga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportarCarga.Designer.cs">
+      <DependentUpon>frmImportarCarga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPagamento.Designer.cs">
+      <DependentUpon>frmPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInformarPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInformarPagamento.Designer.cs">
+      <DependentUpon>frmInformarPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSangria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSangria.Designer.cs">
+      <DependentUpon>frmSangria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSolicitarSenhaSupervisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSolicitarSenhaSupervisor.Designer.cs">
+      <DependentUpon>frmSolicitarSenhaSupervisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Printer\CupomVenda.cs" />
+    <Compile Include="Printer\DadosEmpresa.cs" />
+    <Compile Include="Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start.Designer.cs">
+      <DependentUpon>Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVendas.Designer.cs">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCPFCNPJ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCPFCNPJ.Designer.cs">
+      <DependentUpon>frmCPFCNPJ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmConfiguraPDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfiguraPDV.designer.cs">
+      <DependentUpon>frmConfiguraPDV.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmBloquearPDV.resx">
+      <DependentUpon>frmBloquearPDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCaixa.resx">
+      <DependentUpon>frmCaixa.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbrirCaixa.resx">
+      <DependentUpon>frmAbrirCaixa.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaPreco.resx">
+      <DependentUpon>frmConsultaPreco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFechamento.resx">
+      <DependentUpon>frmFechamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFundoPDV.resx">
+      <DependentUpon>frmFundoPDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuPrincipal.resx">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSangria.resx">
+      <DependentUpon>frmSangria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSolicitarSenhaSupervisor.resx">
+      <DependentUpon>frmSolicitarSenhaSupervisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVendas.resx">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportarCarga.resx">
+      <DependentUpon>frmImportarCarga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPagamento.resx">
+      <DependentUpon>frmPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInformarPagamento.resx">
+      <DependentUpon>frmInformarPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCPFCNPJ.resx">
+      <DependentUpon>frmCPFCNPJ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Start.resx">
+      <DependentUpon>Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfiguraPDV.resx">
+      <DependentUpon>frmConfiguraPDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="iconeico.ico" />
+    <Content Include="txtsinal1.txt" />
+    <Content Include="txtsinal2.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="PDV.exe.manifest">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>ManifestEntryPoint</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

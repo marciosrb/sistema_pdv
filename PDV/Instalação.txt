@@ -1,0 +1,6 @@
+Instalar Server MySQl
+criar senha 123456 no usuario root
+
+instalar mysql workbanck e importar o script
+
+Criar pasta na area de trabalho para os cupons .txt

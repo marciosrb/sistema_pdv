@@ -1,0 +1,63 @@
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\bin\x64\Release\PDV.exe.config
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\bin\x64\Release\PDV.exe.manifest
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\bin\x64\Release\PDV.application
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\bin\x64\Release\PDV.exe
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\bin\x64\Release\PDV.pdb
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\bin\x64\Release\MySql.Data.dll
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmBloquearPDV.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmCaixa.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmAbrirCaixa.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmConsultaPreco.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmFechamento.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmFundoPDV.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmMenuPrincipal.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.login.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmSangria.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmSolicitarSenhaSupervisor.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmVendas.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmImportarCarga.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmPagamento.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmInformarPagamento.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmCPFCNPJ.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.Properties.Resources.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.Start.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmConfiguraPDV.resources
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.exe.manifest
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.application
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.csproj.CopyComplete
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.exe
+C:\Users\USER\Desktop\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.pdb
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\bin\x64\Release\PDV.exe.config
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\bin\x64\Release\PDV.exe.manifest
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\bin\x64\Release\PDV.application
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\bin\x64\Release\PDV.exe
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\bin\x64\Release\PDV.pdb
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\bin\x64\Release\MySql.Data.dll
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.csprojAssemblyReference.cache
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmBloquearPDV.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmCaixa.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmAbrirCaixa.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmConsultaPreco.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmFechamento.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmFundoPDV.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmMenuPrincipal.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.login.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmSangria.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmSolicitarSenhaSupervisor.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmVendas.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmImportarCarga.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmPagamento.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmInformarPagamento.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmCPFCNPJ.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.Properties.Resources.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.Start.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.frmConfiguraPDV.resources
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.csproj.GenerateResource.cache
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.csproj.CoreCompileInputs.cache
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.exe.manifest
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.application
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.csproj.CopyComplete
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.exe
+C:\Users\Márcio\Desktop\SISTEMA PDV\VTEX SISTEMA\PDV\PDV\obj\x64\Release\PDV.pdb
